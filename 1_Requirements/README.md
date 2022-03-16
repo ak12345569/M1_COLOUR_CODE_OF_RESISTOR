@@ -34,5 +34,12 @@
    * CI/CD - Continuous Integration and Continuous Deployment
     * Github - workflows
       * Build - windows and Linux 
+      * Unit testing
       * Analysis
       * Code Quality - Online Tools
+      
+# Practice
+* Certificate
+* [System Setup](https://github.com/stepin654321/MiniProject_Template/wiki)
+* HackerEarth (https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
+* Project 
