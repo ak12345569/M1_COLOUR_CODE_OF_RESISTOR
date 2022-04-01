@@ -43,3 +43,6 @@
 * [System Setup](https://github.com/stepin654321/MiniProject_Template/wiki)
 * [HackerEarth](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
 * Project 
+# SWOT
+![image](https://user-images.githubusercontent.com/101049933/161340310-2eab266f-2e45-4b71-b96d-5d0f034cd3e1.png)
+
